@@ -1,4 +1,4 @@
-# Raspberry Pi Menu Order System
+# raspberry-pi-menu-order-system
 ## Enviroments
 - Raspberry Pi 3 Model B
 - Raspberry Pi Touch Display(The 7″ touchscreen monitor for Raspberry Pi)
